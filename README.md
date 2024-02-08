@@ -5,7 +5,7 @@ The ultimate deck-building battleship game.
 There are many different types of cards, such as ammo cards, weapon cards, and utility cards. They can be bought and added to your deck, and have many purposes.
 
 ### Weapons
-Weapons simply allow you to fire at your enemies, and have unique stats that set them apart from each other
+Weapons simply allow you to fire at your enemies, and have unique stats that set them apart from each other.
 
 ### Ammo
 Ammunition can be loaded into weapons to add special abilities and modifiers to the weapons.
