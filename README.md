@@ -1,1 +1,1 @@
-This game is currently in alpha!
+# Cloaked Warfare
